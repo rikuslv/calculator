@@ -1,3 +1,3 @@
-How looks like this calucator:
+How looks like this calculator:
 
 ![cal demo](Untitled.jpg)
